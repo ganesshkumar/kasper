@@ -4,4 +4,4 @@
   * Setting baseurl to empty string
   * using relative_url
 * Using Gemfile and bundle
-* Updating install
+* Updating install instructions
