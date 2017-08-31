@@ -5,3 +5,7 @@
   * using relative_url
 * Using Gemfile and bundle
 * Updating install instructions
+
+[31 Aug 2017]
+* Moving footer and google analytics into separate partials
+* Setting default highlighter to `rouge` as it is default in gh-pages
