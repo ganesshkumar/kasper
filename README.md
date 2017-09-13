@@ -34,8 +34,8 @@ Build page into `_site` folder
 
 ## Screenshots
 
-![index page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-index.png)
-![post page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-post.png)
+![index page](https://raw.github.com/ganesshkumar/kasper/master/assets/images/kasper-theme-index.png)
+![post page](https://raw.github.com/ganesshkumar/kasper/master/assets/images/kasper-theme-post.png)
 
 
 ## Thanks
